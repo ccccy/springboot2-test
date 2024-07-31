@@ -1,4 +1,4 @@
-package com.github.ccccy.springboot3.api;
+package com.github.ccccy.springboot2.base.api;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.github.ccccy.springboot3;
+package com.github.ccccy.springboot2.base;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
